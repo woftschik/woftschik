@@ -23,6 +23,8 @@ You can find my portfolio [here](https://w-matthies.de).
 
 <br>
 
+<br>
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
