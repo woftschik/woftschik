@@ -36,4 +36,4 @@ You can find my portfolio [here](https://w-matthies.de).
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woftschik&theme=vue-dark&show_icons=true)
 -->
 
-<a href="https://www.vecteezy.com/free-vector/layout">Layout Vectors by Vecteezy</a>
+ [Layout Vectors by Vecteezy](https://www.vecteezy.com/free-vector/layout)
