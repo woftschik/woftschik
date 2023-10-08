@@ -3,10 +3,10 @@
 ## Portfolio
 You can find my portfolio [here](https://w-matthies.de).
 
+<img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
+
 - 🔭 I’m currently working on Join, Portolio
 - 🌱 I’m currently learning **Angular**
-<img src="dev.gif" align="right" width="50%" />
-<img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 
 
 <hr>
